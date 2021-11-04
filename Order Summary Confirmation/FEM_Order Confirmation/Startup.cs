@@ -32,6 +32,7 @@ namespace FEM_Order_Confirmation
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseBrowserLink();
             }
             else
             {

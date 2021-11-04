@@ -1,0 +1,41 @@
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\appsettings.json
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.exe
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.deps.json
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.runtimeconfig.json
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.runtimeconfig.dev.json
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\ref\FEM_Order Confirmation.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.pdb
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.Views.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.Views.pdb
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.AssemblyReference.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.AssemblyInfoInputs.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.AssemblyInfo.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.CoreCompileInputs.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.RazorAssemblyInfo.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.RazorAssemblyInfo.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\staticwebassets\FEM_Order Confirmation.StaticWebAssets.Manifest.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\staticwebassets\FEM_Order Confirmation.StaticWebAssets.xml
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\scopedcss\bundle\FEM_Order Confirmation.styles.css
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.TagHelpers.input.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.TagHelpers.output.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.RazorCoreGenerate.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.RazorTargetAssemblyInfo.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.RazorTargetAssemblyInfo.cs
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.Views.pdb
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\ref\FEM_Order Confirmation.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.pdb
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.genruntimeconfig.cache
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.CopyComplete
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
