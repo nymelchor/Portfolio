@@ -9,7 +9,6 @@ C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confi
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.pdb
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.Views.dll
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\FEM_Order Confirmation.Views.pdb
-C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.AssemblyReference.cache
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.AssemblyInfoInputs.cache
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.AssemblyInfo.cs
@@ -39,3 +38,4 @@ C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confi
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.genruntimeconfig.cache
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.CopyComplete
 C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\nymel\source\repos\Portfolio\Order Summary Confirmation\FEM_Order Confirmation\obj\Debug\net5.0\FEM_Order Confirmation.csproj.AssemblyReference.cache

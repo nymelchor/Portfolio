@@ -2,12 +2,22 @@
     ViewData["Title"] = "Home Page";
 }
 <!--- style="outline-style:solid;color:red" --->
-<div class="d-flex justify-content-center align-items-center">
+<div class="d-flex justify-content-center align-items-center rounded-lg">
     <div class="card text-center">
         <img src="@Url.Content("~/imgs/illustration-hero.svg")" class="card-img-top" alt="...">
         <div class="card-body">
             <h5 class="card-title">Order Summary</h5>
             <p class="card-text">You can now listen to millions of songs, audiobooks, and podcasts on any device anywhere you like!</p>
+            <div class="d-flex">
+                <div class="media align-self-center p-2 w-100">
+                    <img src="@Url.Content("~/imgs/icon-music.svg")" class="mr-3" alt="...">
+                    <div class="media-body text-left">
+                        <h5 class="mt-0">Annual Plan</h5>
+                        $59.99/year
+                    </div>
+                </div>
+                <button type="button" class="btn btn-link p-2 flex-shrink-1 bd-highlight">Change</button>
+            </div>
             <form>
                 <div class="form-group">
                     <button type="button" class="btn btn-primary btn-block">Proceed to Payment</button>
